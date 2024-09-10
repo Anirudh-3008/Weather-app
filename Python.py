@@ -1,0 +1,2 @@
+npm configure get prefix
+
